@@ -1,3 +1,10 @@
-## Kasia Kowalczyk's Website
+## Social Links
+- Test
+- Test
 
-Text Here
+  
+## Projects
+- Test
+- Test
+
+## Other
