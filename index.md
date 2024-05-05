@@ -26,15 +26,15 @@
 </body>
 </html>
 
-##
+<br/><br/>
 
-## Research
+# Research
 Short description here
 
-## Projects
+# Projects
 - Bullet Points
 - Another one
 
-## Publications
+# Publications
 - Bullet Points
 - Another one
