@@ -9,6 +9,11 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f5f5dc; /* Light beige background */
         }
         header {
             background-color: #f0f0f0;
@@ -23,10 +28,15 @@
         .left-column {
             width: 30%;
             padding: 20px;
+            background-color: #d2b48c; /* Dark beige background */
         }
         .right-column {
             width: 70%;
             padding: 20px;
+        }
+        .divider {
+            border-left: 2px solid #ccc; /* Divider between columns */
+            height: 100%;
         }
         img {
             max-width: 100%;
@@ -55,46 +65,49 @@
     </style>
 </head>
 <body>
-    <header>
-        <h1>Kasia Kowalczyk</h1>
-    </header>
-    <div class="container">
-        <div class="left-column">
-            <img src="your-photo.jpg" alt="Kasia Kowalczyk">
-            <div class="bio">
-                <p>Short paragraph bio about yourself...</p>
+    <div class="wrapper">
+        <header>
+            <h1>Kasia Kowalczyk</h1>
+        </header>
+        <div class="container">
+            <div class="left-column">
+                <img src="your-photo.jpg" alt="Kasia Kowalczyk">
+                <div class="bio">
+                    <p>Short paragraph bio about yourself...</p>
+                </div>
             </div>
-        </div>
-        <div class="right-column">
-            <div class="social-icons">
-                <!-- Add your social media icons here -->
-                <a href="your-social-media-link"><img src="assets/facebook-icon.png" alt="Facebook"></a>
-                <a href="your-social-media-link"><img src="assets/twitter-icon.png" alt="Twitter"></a>
-                <!-- Add more social media icons as needed -->
-            </div>
-            <div class="research">
-                <h2 class="section-heading">Research</h2>
-                <ul>
-                    <li>Research item 1</li>
-                    <li>Research item 2</li>
-                    <!-- Add more research items as needed -->
-                </ul>
-            </div>
-            <div class="projects">
-                <h2 class="section-heading">Projects</h2>
-                <ul>
-                    <li>Project 1</li>
-                    <li>Project 2</li>
-                    <!-- Add more projects as needed -->
-                </ul>
-            </div>
-            <div class="publications">
-                <h2 class="section-heading">Publications</h2>
-                <ul>
-                    <li>Publication 1</li>
-                    <li>Publication 2</li>
-                    <!-- Add more publications as needed -->
-                </ul>
+            <div class="divider"></div>
+            <div class="right-column">
+                <div class="social-icons">
+                    <!-- Add your social media icons here -->
+                    <a href="your-social-media-link"><img src="facebook-icon.png" alt="Facebook"></a>
+                    <a href="your-social-media-link"><img src="twitter-icon.png" alt="Twitter"></a>
+                    <!-- Add more social media icons as needed -->
+                </div>
+                <div class="research">
+                    <h2 class="section-heading">Research</h2>
+                    <ul>
+                        <li>Research item 1</li>
+                        <li>Research item 2</li>
+                        <!-- Add more research items as needed -->
+                    </ul>
+                </div>
+                <div class="projects">
+                    <h2 class="section-heading">Projects</h2>
+                    <ul>
+                        <li>Project 1</li>
+                        <li>Project 2</li>
+                        <!-- Add more projects as needed -->
+                    </ul>
+                </div>
+                <div class="publications">
+                    <h2 class="section-heading">Publications</h2>
+                    <ul>
+                        <li>Publication 1</li>
+                        <li>Publication 2</li>
+                        <!-- Add more publications as needed -->
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
