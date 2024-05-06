@@ -20,7 +20,7 @@
         <a class="image-link" href="https://uk.linkedin.com/in/katarzyna-m-kowalczyk"><img src="assets/linkedin.png" alt="LinkedIn"></a>
         <a class="image-link" href="https://www.researchgate.net/profile/Kasia-Kowalczyk-2"><img src="assets/researchgate.png" alt="ResearchGate"></a>
         <a class="image-link" href="https://scholar.google.com/citations?user=r55HhqcAAAAJ&hl=en"><img src="assets/google-scholar.png" alt="Google Scholar"></a>
-        <a class="image-link" href="https://scholar.google.com/citations?user=r55HhqcAAAAJ&hl=en"><img src="assets/orcid.png" alt="ORCID"></a>
+        <a class="image-link" href="https://orcid.org/0009-0002-8884-6061"><img src="assets/orcid.png" alt="ORCID"></a>
         <a class="image-link" href="https://github.com/KasiaKoo"><img src="assets/github.png" alt="GitHub"></a>
     </div>
 </body>
