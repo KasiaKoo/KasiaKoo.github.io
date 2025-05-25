@@ -30,19 +30,23 @@
 
 # Research
 
-During my PhD, I delved deeply into the fascinating realm of ultrafast electron dynamics within condensed matter, all while harnessing the power of ultrafast lasers. My aim? To illuminate the intricate electronic band structure and dynamics unfolding on the attosecond time-scale in condensed matter.
+My PhD is in attosecond science with a focus on high harmonics generation (HHG) from solids, for my postdoc I took a different route and now I am excited to work on projects merging my expertise with ultrafast lasers and nonlinear optics with a new avenue for me of quantum optics. I work on experimental implementation of strong-field nonlinear experiments with a non-classical bright-squeezed vacuum source. 
 
-One of my key areas of expertise lies in high harmonic generation (HHG) spectroscopy within wide-band dielectrics. In particular, I looked into the strong field effects near the edge of a band structure. I also collaborated on pump-probe high harmonic spectroscopy of aerosols and XFEL experiments with liquid jets.
+During my PhD I worked on a wide range of attosecond science with a main focus on HHG spectroscopy within wide-band dielectrics. In particular, I looked into the strong field effects near the edge of a band structure. I also collaborated on pump-probe high harmonic spectroscopy of aerosols and XFEL experiments with liquid jets.
 
 Throughout my career, I've amassed extensive hands-on experience in laser labs. However, I've also dedicated myself to streamlining and enhancing my experiments through the development of an open-source optical lab interface package. Furthermore, my involvement with XFEL and HHG beamlines has equipped me with a proficiency in extensive data analysis and the implementation of machine learning techniques.
 
 
 # Main Projects
+- Postdoctoral Fellow at JASLab, NRC, Canada working on Attosecond Quantum Optics projects
 - Co-Investigator and Target Area Operator at CLF Artemis Beamtime "Investigating the wavelength dependence of High Harmonic Generation in solids"
 - Investigator on Pump-Probe HHG in aerosols project in collaboration with ETH Zurich 
-- Software Developer for Open-source Optical Lab Intefrace (OOLI) Package
+
 
 # Publications and Conferences 
+- [Purschke, D., Kowalczyk, Katarzyna M., et al. "Statistics of spontaneous photocurrent in LT-GaAs Electrodes driven by bright-squeezed vacuum." 2025 Photonics North](https://conferium.com/Clients/256_web/index.lasso)
+- [Cavaletto, Stefano M., et al. "The attoscience of strong-field-driven solids." Nature Reviews Physics (2024): 1-12.](https://www.nature.com/articles/s42254-024-00784-3)
+- [Allegre, Hortense, et al. "Extension of high-harmonic generation cutoff in solids to 50 eV using MgO." Optics Letters 50.5 (2025): 1492-1495.](https://opg.optica.org/ol/fulltext.cfm?uri=ol-50-5-1492&id=568216)
 - [Barnard, Jonathan CT, et al. "Delivery of stable ultra-thin liquid sheets in vacuum for biochemical spectroscopy." Frontiers in Molecular Biosciences 9 (2022): 1044610.](https://www.frontiersin.org/articles/10.3389/fmolb.2022.1044610/full)
 - [Kowalczyk, Katarzyna M., et al. "Complex Structures of Spatially and Spectrally resolved Solid High Harmonics." 2023 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (CLEO/Europe-EQEC). IEEE, 2023. ](https://ieeexplore.ieee.org/abstract/document/10231940)
 - [Kowalczyk, K., et al. "Ultrafast Processes Optimisation for Wideband Dialectrics." JSAP-Optica Joint Symposia. Optica Publishing Group, 2022.](https://opg.optica.org/abstract.cfm?uri=jsapo-2022-21p_C302_8)
