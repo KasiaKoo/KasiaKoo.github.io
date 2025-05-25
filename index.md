@@ -44,8 +44,7 @@ Throughout my career, I've amassed extensive hands-on experience in laser labs. 
 
 
 # Publications and Conferences 
-- [Purschke, David, Kowalczyk, Katarzyna M., et al. "Statistics of spontaneous photocurrent in LT-GaAs Electrodes driven by bright-squeezed vacuum." 2025 Photonics North](https://conferium.com/Clients/256_web/index.lasso)
-- [Cavaletto, Stefano M., Kowalczyk, Katarzyna M., et al. "The attoscience of strong-field-driven solids." Nature Reviews Physics (2024): 1-12.](https://www.nature.com/articles/s42254-024-00784-3)
+
 - [Allegre, Hortense, et al. "Extension of high-harmonic generation cutoff in solids to 50 eV using MgO." Optics Letters 50.5 (2025): 1492-1495.](https://opg.optica.org/ol/fulltext.cfm?uri=ol-50-5-1492&id=568216)
 - [Barnard, Jonathan CT, et al. "Delivery of stable ultra-thin liquid sheets in vacuum for biochemical spectroscopy." Frontiers in Molecular Biosciences 9 (2022): 1044610.](https://www.frontiersin.org/articles/10.3389/fmolb.2022.1044610/full)
 - [Kowalczyk, Katarzyna M., et al. "Complex Structures of Spatially and Spectrally resolved Solid High Harmonics." 2023 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (CLEO/Europe-EQEC). IEEE, 2023. ](https://ieeexplore.ieee.org/abstract/document/10231940)
