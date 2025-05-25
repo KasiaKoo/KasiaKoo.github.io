@@ -44,12 +44,12 @@ Throughout my career, I've amassed extensive hands-on experience in laser labs. 
 
 
 # Publications and Conferences 
-- [Purschke, D., Kowalczyk, Katarzyna M., et al. "Statistics of spontaneous photocurrent in LT-GaAs Electrodes driven by bright-squeezed vacuum." 2025 Photonics North](https://conferium.com/Clients/256_web/index.lasso)
-- [Cavaletto, Stefano M., et al. "The attoscience of strong-field-driven solids." Nature Reviews Physics (2024): 1-12.](https://www.nature.com/articles/s42254-024-00784-3)
+- [Purschke, David, Kowalczyk, Katarzyna M., et al. "Statistics of spontaneous photocurrent in LT-GaAs Electrodes driven by bright-squeezed vacuum." 2025 Photonics North](https://conferium.com/Clients/256_web/index.lasso)
+- [Cavaletto, Stefano M., Kowalczyk, Katarzyna M., et al. "The attoscience of strong-field-driven solids." Nature Reviews Physics (2024): 1-12.](https://www.nature.com/articles/s42254-024-00784-3)
 - [Allegre, Hortense, et al. "Extension of high-harmonic generation cutoff in solids to 50 eV using MgO." Optics Letters 50.5 (2025): 1492-1495.](https://opg.optica.org/ol/fulltext.cfm?uri=ol-50-5-1492&id=568216)
 - [Barnard, Jonathan CT, et al. "Delivery of stable ultra-thin liquid sheets in vacuum for biochemical spectroscopy." Frontiers in Molecular Biosciences 9 (2022): 1044610.](https://www.frontiersin.org/articles/10.3389/fmolb.2022.1044610/full)
 - [Kowalczyk, Katarzyna M., et al. "Complex Structures of Spatially and Spectrally resolved Solid High Harmonics." 2023 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (CLEO/Europe-EQEC). IEEE, 2023. ](https://ieeexplore.ieee.org/abstract/document/10231940)
-- [Kowalczyk, K., et al. "Ultrafast Processes Optimisation for Wideband Dialectrics." JSAP-Optica Joint Symposia. Optica Publishing Group, 2022.](https://opg.optica.org/abstract.cfm?uri=jsapo-2022-21p_C302_8)
-- [Wyatt, Adam S., et al. "Spatially-and Spectrally-Resolved Structures in High Harmonic Generation from Solids." Ultrafast Optics. Optica Publishing Group, 2023.](https://opg.optica.org/abstract.cfm?uri=ufo-2023-F2.3)
+- [Kowalczyk, Katarzyna M., et al. "Ultrafast Processes Optimisation for Wideband Dialectrics." JSAP-Optica Joint Symposia. Optica Publishing Group, 2022.](https://opg.optica.org/abstract.cfm?uri=jsapo-2022-21p_C302_8)
+- [Wyatt, Adam S., Kowalczyk, Katarzyna M., et al. "Spatially-and Spectrally-Resolved Structures in High Harmonic Generation from Solids." Ultrafast Optics. Optica Publishing Group, 2023.](https://opg.optica.org/abstract.cfm?uri=ufo-2023-F2.3)
 - [Allegre, Hortense, et al. "Anisotropic High Harmonic Generation in Wide Bandgap Dielectrics." The European Conference on Lasers and Electro-Optics. Optica Publishing Group, 2023.](https://opg.optica.org/abstract.cfm?uri=CLEO_Europe-2023-cg_1_4)
-- [Kowalczyk, K., and M. Matthews. "Chirp dependence of EUV generation in MgO using few cycle mid-IR pulses." High Intensity Lasers and High Field Phenomena. Optica Publishing Group, 2022.](https://opg.optica.org/abstract.cfm?uri=HILAS-2022-HTh3B.1)
+- [Kowalczyk, Katarzyna M., and Matthews Mary, "Chirp dependence of EUV generation in MgO using few cycle mid-IR pulses." High Intensity Lasers and High Field Phenomena. Optica Publishing Group, 2022.](https://opg.optica.org/abstract.cfm?uri=HILAS-2022-HTh3B.1)
