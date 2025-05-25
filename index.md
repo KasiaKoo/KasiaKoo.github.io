@@ -29,9 +29,6 @@
 <br/><br/>
 
 # Research
-
-I did my PhD in attosecond science with a focus on high harmonics generation (HHG) from solids. For my postdoc I took a different route and I am excited to work on projects merging my expertise with ultrafast lasers and nonlinear optics with a new avenue for me of quantum optics. I work on experimental implementation of strong-field nonlinear experiments with a non-classical bright-squeezed vacuum source. 
-
 During my PhD I worked on a wide range of attosecond science with a main focus on HHG spectroscopy within wide-band dielectrics. In particular, I looked into the strong field effects near the edge of a band structure. I also collaborated on pump-probe high harmonic spectroscopy of aerosols and XFEL experiments with liquid jets.
 
 Throughout my career, I've amassed extensive hands-on experience in laser labs. However, I've also dedicated myself to streamlining and enhancing my experiments through the development of an open-source optical lab interface package. Furthermore, my involvement with XFEL and HHG beamlines has equipped me with a proficiency in extensive data analysis and the implementation of machine learning techniques.
