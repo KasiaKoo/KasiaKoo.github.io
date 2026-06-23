@@ -30,26 +30,32 @@
 
 # Research
 
-I did my PhD in attosecond science with a focus on high harmonics generation (HHG) from solids. For my postdoc I took a different route and I am excited to work on projects merging my expertise with ultrafast lasers and nonlinear optics with a new avenue for me of quantum optics. I work on experimental implementation of strong-field nonlinear experiments with a non-classical bright-squeezed vacuum source. 
-
-During my PhD I worked on a wide range of attosecond science with a main focus on HHG spectroscopy within wide-band dielectrics. In particular, I looked into the strong field effects near the edge of a band structure. I also collaborated on pump-probe high harmonic spectroscopy of aerosols and XFEL experiments with liquid jets.
-
-Throughout my career, I've amassed extensive hands-on experience in laser labs. However, I've also dedicated myself to streamlining and enhancing my experiments through the development of an open-source optical lab interface package. Furthermore, my involvement with XFEL and HHG beamlines has equipped me with a proficiency in extensive data analysis and the implementation of machine learning techniques.
+My research focuses on ultrafast light matter interactions in the strong field regime. During my PhD I mainly worked on studying the process of high harmonic generation (HHG) in dielectric materials. However, for my postdoctoral project I work with non-classical states of light and explore quantum correlations on ultrafast timescale in semiconductors. 
 
 
-# Main Projects
-- Postdoctoral Fellow at JASLab, NRC, Canada working on Attosecond Quantum Optics projects
-- Co-Investigator and Target Area Operator at CLF Artemis Beamtime "Investigating the wavelength dependence of High Harmonic Generation in solids"
-- Investigator on Pump-Probe HHG in aerosols project in collaboration with ETH Zurich 
+I completed my PhD at Imperial College London at Extreme Light Consortium, studying the XUV harmonics emitted from large bandgap materials like sapphire or MgO. I worked on both experiments and simulations showing the propagation effects of ultrafast strong fields in those solids which explained the complex far-field structure in the harmonic spectrum. Moreover, by studying the wavelength dependence of harmonic anisotropy, I was able to gain insight into the effect of joint density of states on the upconverted spectrum. 
+
+As a postdoc at NRC I study the attosecond effects driven by non-classical state of light like bright squeezed vacuum (BSV). This source reaches the intensity needed for highly nonlinear processes while carried the quantum correlations of squeezed light. The projects incorporate my previous strong-field experience while exposing me to new experimental techiniques more common in quantum optics like Hanbury Brown and Twiss effect, high-order coherence and entanglement. The work focuses no bridging the gap between the attosecond science and quantum. 
 
 
-# Publications and Conferences 
-- [Purschke, David, Kowalczyk, Katarzyna M., et al. "Statistics of spontaneous photocurrent in LT-GaAs Electrodes driven by bright-squeezed vacuum." 2025 Photonics North](https://conferium.com/Clients/256_web/index.lasso)
+# Project Highlights 
+- Postdoctoral Fellow at NRC studying the nonlinear photoconductivity in semiconductors driven by bright squeezed vacuum.
+- Co-Investigator and Target Area Operator at CLF Artemis Beamtime "Investigating the wavelength dependence of High Harmonic Generation in solids".
+- Investigator on Pump-Probe HHG in aerosols project in collaboration with ETH Zurich.
+
+
+# Publications
+- [Kowalczyk, Katarzyna M., et al. "Strong-field propagation effects in high harmonic generation from MgO." APL Photonics 11.4 (2026)](https://pubs.aip.org/aip/app/article/11/4/041301/3387455)
 - [Cavaletto, Stefano M., Kowalczyk, Katarzyna M., et al. "The attoscience of strong-field-driven solids." Nature Reviews Physics (2024): 1-12.](https://www.nature.com/articles/s42254-024-00784-3)
 - [Allegre, Hortense, et al. "Extension of high-harmonic generation cutoff in solids to 50 eV using MgO." Optics Letters 50.5 (2025): 1492-1495.](https://opg.optica.org/ol/fulltext.cfm?uri=ol-50-5-1492&id=568216)
+- [Alexander, Oliver, et al. "Attosecond impulsive stimulated X-ray Raman scattering in liquid water." Science Advances 10.39 (2024)](https://www.frontiersin.org/articles/10.3389/fmolb.2022.1044610/full)
+- [Xiao, Xiaofei, et al. "Nanofocusing in critically coupled nanogap waveguide resonators." ACS Photonics 11.7 (2024): 2836-2842.](https://pubs.acs.org/doi/full/10.1021/acsphotonics.4c00961)
 - [Barnard, Jonathan CT, et al. "Delivery of stable ultra-thin liquid sheets in vacuum for biochemical spectroscopy." Frontiers in Molecular Biosciences 9 (2022): 1044610.](https://www.frontiersin.org/articles/10.3389/fmolb.2022.1044610/full)
+
+# Conference Talks
+- [Kowalczyk, Katarzyna M., et al. "Measurement of spontaneous two-photon photocurrent in LT-GaAs driven by a bright-squeezed vacuum" in CAP Congress 2026, Ottawa, ON, Canada.](https://cap.ca/congress-conference/congress2026/)
+- [Kowalczyk, Katarzyna M., et al. "Measurement of spontaneous two-photon photocurrent in LT-GaAs driven by a bright-squeezed vacuum" in Photonics North 2026, Quebec City, QC, Canada.](https://photonicsnorth.com/en)
+-  [Kowalczyk, Katarzyna M., et al. "Transverse Spatial Coherence Model of Spatially Resolved High Harmonics from MgO" in Photonics North 2025, Ottawa, ON, Canada.](https://photonicsnorth.com/en)
+- [Kowalczyk, Katarzyna M., et al. "Solid High Harmonic Enhancement Near the Band Gap Edge." in CLEO 2024, Technical Digest Series (Optica Publishing Group, 2024).](https://opg.optica.org/abstract.cfm?uri=cleo_fs-2024-FW4C.2)
 - [Kowalczyk, Katarzyna M., et al. "Complex Structures of Spatially and Spectrally resolved Solid High Harmonics." 2023 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (CLEO/Europe-EQEC). IEEE, 2023. ](https://ieeexplore.ieee.org/abstract/document/10231940)
-- [Kowalczyk, Katarzyna M., et al. "Ultrafast Processes Optimisation for Wideband Dialectrics." JSAP-Optica Joint Symposia. Optica Publishing Group, 2022.](https://opg.optica.org/abstract.cfm?uri=jsapo-2022-21p_C302_8)
-- [Wyatt, Adam S., Kowalczyk, Katarzyna M., et al. "Spatially-and Spectrally-Resolved Structures in High Harmonic Generation from Solids." Ultrafast Optics. Optica Publishing Group, 2023.](https://opg.optica.org/abstract.cfm?uri=ufo-2023-F2.3)
-- [Allegre, Hortense, et al. "Anisotropic High Harmonic Generation in Wide Bandgap Dielectrics." The European Conference on Lasers and Electro-Optics. Optica Publishing Group, 2023.](https://opg.optica.org/abstract.cfm?uri=CLEO_Europe-2023-cg_1_4)
-- [Kowalczyk, Katarzyna M., and Matthews Mary, "Chirp dependence of EUV generation in MgO using few cycle mid-IR pulses." High Intensity Lasers and High Field Phenomena. Optica Publishing Group, 2022.](https://opg.optica.org/abstract.cfm?uri=HILAS-2022-HTh3B.1)
+-  [Kowalczyk, Katarzyna M., and Matthews Mary, "Chirp dependence of EUV generation in MgO using few cycle mid-IR pulses." High Intensity Lasers and High Field Phenomena. Optica Publishing Group, 2022.](https://opg.optica.org/abstract.cfm?uri=HILAS-2022-HTh3B.1)
