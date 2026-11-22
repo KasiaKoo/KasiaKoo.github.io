@@ -39,12 +39,13 @@ As a postdoc at NRC I study the attosecond effects driven by non-classical state
 
 
 # Project Highlights 
-- Postdoctoral Fellow at NRC studying the nonlinear photoconductivity in semiconductors driven by bright squeezed vacuum.
+- Research associate at JasLab NRC Canada working on strong-field quantum optics experiments in solids. 
+- Postdoc at NRC Canada/INRS studying the nonlinear photoconductivity in semiconductors driven by bright squeezed vacuum.
 - Co-Investigator and Target Area Operator at CLF Artemis Beamtime "Investigating the wavelength dependence of High Harmonic Generation in solids".
 - Investigator on Pump-Probe HHG in aerosols project in collaboration with ETH Zurich.
 
 
-# Publications
+# Relevant Publications
 - [Kowalczyk, Katarzyna M., et al. "Strong-field propagation effects in high harmonic generation from MgO." APL Photonics 11.4 (2026)](https://pubs.aip.org/aip/app/article/11/4/041301/3387455)
 - [Cavaletto, Stefano M., Kowalczyk, Katarzyna M., et al. "The attoscience of strong-field-driven solids." Nature Reviews Physics (2024): 1-12.](https://www.nature.com/articles/s42254-024-00784-3)
 - [Allegre, Hortense, et al. "Extension of high-harmonic generation cutoff in solids to 50 eV using MgO." Optics Letters 50.5 (2025): 1492-1495.](https://opg.optica.org/ol/fulltext.cfm?uri=ol-50-5-1492&id=568216)
@@ -52,10 +53,13 @@ As a postdoc at NRC I study the attosecond effects driven by non-classical state
 - [Xiao, Xiaofei, et al. "Nanofocusing in critically coupled nanogap waveguide resonators." ACS Photonics 11.7 (2024): 2836-2842.](https://pubs.acs.org/doi/full/10.1021/acsphotonics.4c00961)
 - [Barnard, Jonathan CT, et al. "Delivery of stable ultra-thin liquid sheets in vacuum for biochemical spectroscopy." Frontiers in Molecular Biosciences 9 (2022): 1044610.](https://www.frontiersin.org/articles/10.3389/fmolb.2022.1044610/full)
 
-# Conference Talks
+# Invited and Contributed Talks
+- [Invited Talk: Kowalczyk, Katarzyna M., et al. "BSV metrology and correlations in harmonics driven  with quantum light" in SFQO 2026, De Porquerolles, France.](https://sfqo.org/)
 - [Kowalczyk, Katarzyna M., et al. "Measurement of spontaneous two-photon photocurrent in LT-GaAs driven by a bright-squeezed vacuum" in CAP Congress 2026, Ottawa, ON, Canada.](https://cap.ca/congress-conference/congress2026/)
 - [Kowalczyk, Katarzyna M., et al. "Measurement of spontaneous two-photon photocurrent in LT-GaAs driven by a bright-squeezed vacuum" in Photonics North 2026, Quebec City, QC, Canada.](https://photonicsnorth.com/en)
 -  [Kowalczyk, Katarzyna M., et al. "Transverse Spatial Coherence Model of Spatially Resolved High Harmonics from MgO" in Photonics North 2025, Ottawa, ON, Canada.](https://photonicsnorth.com/en)
 - [Kowalczyk, Katarzyna M., et al. "Solid High Harmonic Enhancement Near the Band Gap Edge." in CLEO 2024, Technical Digest Series (Optica Publishing Group, 2024).](https://opg.optica.org/abstract.cfm?uri=cleo_fs-2024-FW4C.2)
 - [Kowalczyk, Katarzyna M., et al. "Complex Structures of Spatially and Spectrally resolved Solid High Harmonics." 2023 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (CLEO/Europe-EQEC). IEEE, 2023. ](https://ieeexplore.ieee.org/abstract/document/10231940)
--  [Kowalczyk, Katarzyna M., and Matthews Mary, "Chirp dependence of EUV generation in MgO using few cycle mid-IR pulses." High Intensity Lasers and High Field Phenomena. Optica Publishing Group, 2022.](https://opg.optica.org/abstract.cfm?uri=HILAS-2022-HTh3B.1)
+- [Invited Talk: Kowalczyk, Katarzyna M., "Comparison between the Molecular and Solid High Harmonics Generation." in MD-GAS Webinar Series, 2022.]([https://opg.optica.org/abstract.cfm?uri=HILAS-2022-HTh3B.1](https://mdgas.eu/eciwebinars))
+-  [Kowalczyk, Katarzyna M., and Matthews Mary, "Chirp dependence of EUV generation in MgO using few cycle mid-IR pulses." in High Intensity Lasers and High Field Phenomena. Optica Publishing Group, 2022.](https://opg.optica.org/abstract.cfm?uri=HILAS-2022-HTh3B.1)
+
